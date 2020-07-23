@@ -9,5 +9,6 @@
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
     "workbench.colorTheme": "Darcula",
     "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "onWindowChange"
 }
