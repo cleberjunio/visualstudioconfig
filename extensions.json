@@ -21,16 +21,6 @@
   },
   {
     "metadata": {
-      "id": "b689fcc8-d494-4dbf-a228-2c694a578afc",
-      "publisherId": "alefragnani.Bookmarks",
-      "publisherDisplayName": "alefragnani"
-    },
-    "name": "Bookmarks",
-    "publisher": "alefragnani",
-    "version": "11.3.1"
-  },
-  {
-    "metadata": {
       "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
       "publisherId": "Shan.code-settings-sync",
       "publisherDisplayName": "Shan"
@@ -38,36 +28,6 @@
     "name": "code-settings-sync",
     "publisher": "Shan",
     "version": "3.4.3"
-  },
-  {
-    "metadata": {
-      "id": "f6dbd813-b0a0-42c1-90ea-10dde9d925a7",
-      "publisherId": "streetsidesoftware.code-spell-checker",
-      "publisherDisplayName": "streetsidesoftware"
-    },
-    "name": "code-spell-checker",
-    "publisher": "streetsidesoftware",
-    "version": "1.9.0"
-  },
-  {
-    "metadata": {
-      "id": "a669e675-9cb2-48a8-983d-33a1c4ed10ef",
-      "publisherId": "streetsidesoftware.code-spell-checker-portuguese-brazilian",
-      "publisherDisplayName": "streetsidesoftware"
-    },
-    "name": "code-spell-checker-portuguese-brazilian",
-    "publisher": "streetsidesoftware",
-    "version": "0.1.2"
-  },
-  {
-    "metadata": {
-      "id": "121396ad-85a1-45ec-9fd1-d95028a847f5",
-      "publisherId": "naumovs.color-highlight",
-      "publisherDisplayName": "naumovs"
-    },
-    "name": "color-highlight",
-    "publisher": "naumovs",
-    "version": "2.3.0"
   },
   {
     "metadata": {
@@ -91,16 +51,6 @@
   },
   {
     "metadata": {
-      "id": "5960f38e-0bbe-4644-8f9c-9c8824e82511",
-      "publisherId": "donjayamanne.githistory",
-      "publisherDisplayName": "donjayamanne"
-    },
-    "name": "githistory",
-    "publisher": "donjayamanne",
-    "version": "0.6.8"
-  },
-  {
-    "metadata": {
       "id": "c941a679-d500-46a8-b2a9-208063125901",
       "publisherId": "wholroyd.jinja",
       "publisherDisplayName": "wholroyd"
@@ -121,16 +71,6 @@
   },
   {
     "metadata": {
-      "id": "25adc849-5c3a-4dca-95b3-55a6461077ee",
-      "publisherId": "xyz.local-history",
-      "publisherDisplayName": "xyz"
-    },
-    "name": "local-history",
-    "publisher": "xyz",
-    "version": "1.8.1"
-  },
-  {
-    "metadata": {
       "id": "5db78037-f674-459f-a236-db622c427c5b",
       "publisherId": "PKief.material-icon-theme",
       "publisherDisplayName": "PKief"
@@ -138,26 +78,6 @@
     "name": "material-icon-theme",
     "publisher": "PKief",
     "version": "4.2.0"
-  },
-  {
-    "metadata": {
-      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
-      "publisherId": "esbenp.prettier-vscode",
-      "publisherDisplayName": "esbenp"
-    },
-    "name": "prettier-vscode",
-    "publisher": "esbenp",
-    "version": "5.1.3"
-  },
-  {
-    "metadata": {
-      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
-      "publisherId": "ms-python.python",
-      "publisherDisplayName": "ms-python"
-    },
-    "name": "python",
-    "publisher": "ms-python",
-    "version": "2020.7.94776"
   },
   {
     "metadata": {
@@ -201,16 +121,6 @@
   },
   {
     "metadata": {
-      "id": "dda49fd5-1f3b-4d25-bf61-4fc41905ede5",
-      "publisherId": "humao.rest-client",
-      "publisherDisplayName": "humao"
-    },
-    "name": "rest-client",
-    "publisher": "humao",
-    "version": "0.24.1"
-  },
-  {
-    "metadata": {
       "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
       "publisherId": "dracula-theme.theme-dracula",
       "publisherDisplayName": "dracula-theme"
@@ -247,7 +157,7 @@
     },
     "name": "vsc-material-theme-icons",
     "publisher": "equinusocio",
-    "version": "1.1.4"
+    "version": "1.2.0"
   },
   {
     "metadata": {
@@ -257,17 +167,7 @@
     },
     "name": "vscode-docker",
     "publisher": "ms-azuretools",
-    "version": "1.3.1"
-  },
-  {
-    "metadata": {
-      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
-      "publisherId": "dbaeumer.vscode-eslint",
-      "publisherDisplayName": "dbaeumer"
-    },
-    "name": "vscode-eslint",
-    "publisher": "dbaeumer",
-    "version": "2.1.8"
+    "version": "1.4.1"
   },
   {
     "metadata": {
@@ -291,16 +191,6 @@
   },
   {
     "metadata": {
-      "id": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
-      "publisherId": "bmewburn.vscode-intelephense-client",
-      "publisherDisplayName": "bmewburn"
-    },
-    "name": "vscode-intelephense-client",
-    "publisher": "bmewburn",
-    "version": "1.5.3"
-  },
-  {
-    "metadata": {
       "id": "23d72dfc-8dd1-4e30-926e-8783b4378f13",
       "publisherId": "ms-vscode-remote.vscode-remote-extensionpack",
       "publisherDisplayName": "ms-vscode-remote"
@@ -318,25 +208,5 @@
     "name": "vscode-theme-darcula",
     "publisher": "rokoroku",
     "version": "1.2.1"
-  },
-  {
-    "metadata": {
-      "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
-      "publisherId": "VisualStudioExptTeam.vscodeintellicode",
-      "publisherDisplayName": "VisualStudioExptTeam"
-    },
-    "name": "vscodeintellicode",
-    "publisher": "VisualStudioExptTeam",
-    "version": "1.2.9"
-  },
-  {
-    "metadata": {
-      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
-      "publisherId": "ms-vsliveshare.vsliveshare",
-      "publisherDisplayName": "ms-vsliveshare"
-    },
-    "name": "vsliveshare",
-    "publisher": "ms-vsliveshare",
-    "version": "1.0.2478"
   }
 ]
