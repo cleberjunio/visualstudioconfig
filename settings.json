@@ -23,6 +23,7 @@
         "esbenp.prettier-vscode",
         "ms-vscode.vscode-typescript-tslint-plugin",
         "ms-azuretools.vscode-docker",
-        "mikestead.dotenv"
+        "mikestead.dotenv",
+        "shan.code-settings-sync"
     ]
 }
