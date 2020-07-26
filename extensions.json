@@ -51,6 +51,16 @@
   },
   {
     "metadata": {
+      "id": "a669e675-9cb2-48a8-983d-33a1c4ed10ef",
+      "publisherId": "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+      "publisherDisplayName": "streetsidesoftware"
+    },
+    "name": "code-spell-checker-portuguese-brazilian",
+    "publisher": "streetsidesoftware",
+    "version": "0.1.2"
+  },
+  {
+    "metadata": {
       "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
       "publisherId": "msjsdiag.debugger-for-chrome",
       "publisherDisplayName": "msjsdiag"
@@ -218,16 +228,6 @@
     "name": "vscode-icons",
     "publisher": "vscode-icons-team",
     "version": "10.2.0"
-  },
-  {
-    "metadata": {
-      "id": "3fd25437-acd9-42d7-ab19-581a69ce2dd9",
-      "publisherId": "MS-CEINTL.vscode-language-pack-pt-BR",
-      "publisherDisplayName": "MS-CEINTL"
-    },
-    "name": "vscode-language-pack-pt-BR",
-    "publisher": "MS-CEINTL",
-    "version": "1.47.3"
   },
   {
     "metadata": {
