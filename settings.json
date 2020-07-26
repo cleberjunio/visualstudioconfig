@@ -25,5 +25,10 @@
         "ms-azuretools.vscode-docker",
         "mikestead.dotenv",
         "shan.code-settings-sync"
+    ],
+    "docker.containers.sortBy": "CreatedTime",
+    "docker.containers.description": [
+        "ContainerName",
+        "Status"
     ]
 }
