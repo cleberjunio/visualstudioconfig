@@ -17,6 +17,8 @@
         "streetsidesoftware.code-spell-checker-portuguese-brazilian",
         "streetsidesoftware.code-spell-checker",
         "naumovs.color-highlight",
-        "donjayamanne.githistory"
+        "donjayamanne.githistory",
+        "dbaeumer.vscode-eslint",
+        "ms-vscode.vscode-typescript-tslint-plugin"
     ]
 }
