@@ -311,6 +311,16 @@
   },
   {
     "metadata": {
+      "id": "876e8f93-74d0-4f4f-91b7-34a09f19f444",
+      "publisherId": "VisualStudioExptTeam.vscodeintellicode",
+      "publisherDisplayName": "VisualStudioExptTeam"
+    },
+    "name": "vscodeintellicode",
+    "publisher": "VisualStudioExptTeam",
+    "version": "1.2.9"
+  },
+  {
+    "metadata": {
       "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
       "publisherId": "ms-vsliveshare.vsliveshare",
       "publisherDisplayName": "ms-vsliveshare"
