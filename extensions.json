@@ -141,6 +141,16 @@
   },
   {
     "metadata": {
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "ms-python.python",
+      "publisherDisplayName": "ms-python"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "version": "2020.7.96456"
+  },
+  {
+    "metadata": {
       "id": "93ce222b-5f6f-49b7-9ab1-a0463c6238df",
       "publisherId": "ms-vscode-remote.remote-containers",
       "publisherDisplayName": "ms-vscode-remote"
