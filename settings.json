@@ -11,5 +11,5 @@
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "files.autoSave": "onWindowChange",
-    "cSpell.language": "pt-BR"
+    "cSpell.language": "en,pt,pt_BR"
 }
