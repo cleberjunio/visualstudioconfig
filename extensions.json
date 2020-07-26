@@ -91,6 +91,16 @@
   },
   {
     "metadata": {
+      "id": "5960f38e-0bbe-4644-8f9c-9c8824e82511",
+      "publisherId": "donjayamanne.githistory",
+      "publisherDisplayName": "donjayamanne"
+    },
+    "name": "githistory",
+    "publisher": "donjayamanne",
+    "version": "0.6.8"
+  },
+  {
+    "metadata": {
       "id": "c941a679-d500-46a8-b2a9-208063125901",
       "publisherId": "wholroyd.jinja",
       "publisherDisplayName": "wholroyd"
@@ -268,5 +278,15 @@
     "name": "vscode-typescript-tslint-plugin",
     "publisher": "ms-vscode",
     "version": "1.2.3"
+  },
+  {
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "ms-vsliveshare.vsliveshare",
+      "publisherDisplayName": "ms-vsliveshare"
+    },
+    "name": "vsliveshare",
+    "publisher": "ms-vsliveshare",
+    "version": "1.0.2478"
   }
 ]
