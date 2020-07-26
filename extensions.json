@@ -208,5 +208,15 @@
     "name": "vscode-theme-darcula",
     "publisher": "rokoroku",
     "version": "1.2.1"
+  },
+  {
+    "metadata": {
+      "id": "90a37ca1-92a2-488a-b196-7a8c0b0127ea",
+      "publisherId": "ms-vscode.vscode-typescript-tslint-plugin",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "vscode-typescript-tslint-plugin",
+    "publisher": "ms-vscode",
+    "version": "1.2.3"
   }
 ]
