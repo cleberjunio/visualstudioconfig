@@ -61,6 +61,16 @@
   },
   {
     "metadata": {
+      "id": "121396ad-85a1-45ec-9fd1-d95028a847f5",
+      "publisherId": "naumovs.color-highlight",
+      "publisherDisplayName": "naumovs"
+    },
+    "name": "color-highlight",
+    "publisher": "naumovs",
+    "version": "2.3.0"
+  },
+  {
+    "metadata": {
       "id": "1ec62ca5-d7f9-4ddb-a882-e8d018c0aefd",
       "publisherId": "msjsdiag.debugger-for-chrome",
       "publisherDisplayName": "msjsdiag"
