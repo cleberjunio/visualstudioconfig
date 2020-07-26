@@ -17,6 +17,7 @@
         "naumovs.color-highlight",
         "donjayamanne.githistory",
         "ms-vscode.vscode-typescript-tslint-plugin",
-        "visualstudioexptteam.vscodeintellicode"
+        "visualstudioexptteam.vscodeintellicode",
+        "streetsidesoftware.code-spell-checker"
     ]
 }
