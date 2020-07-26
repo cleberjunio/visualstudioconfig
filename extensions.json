@@ -251,6 +251,16 @@
   },
   {
     "metadata": {
+      "id": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
+      "publisherId": "bmewburn.vscode-intelephense-client",
+      "publisherDisplayName": "bmewburn"
+    },
+    "name": "vscode-intelephense-client",
+    "publisher": "bmewburn",
+    "version": "1.5.3"
+  },
+  {
+    "metadata": {
       "id": "23d72dfc-8dd1-4e30-926e-8783b4378f13",
       "publisherId": "ms-vscode-remote.vscode-remote-extensionpack",
       "publisherDisplayName": "ms-vscode-remote"
