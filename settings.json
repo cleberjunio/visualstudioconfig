@@ -16,9 +16,7 @@
         "alefragnani.bookmarks",
         "naumovs.color-highlight",
         "donjayamanne.githistory",
-        "dbaeumer.vscode-eslint",
         "ms-vscode.vscode-typescript-tslint-plugin",
-        "ms-azuretools.vscode-docker",
         "visualstudioexptteam.vscodeintellicode"
     ]
 }
