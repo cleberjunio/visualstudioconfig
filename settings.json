@@ -14,8 +14,6 @@
     "cSpell.language": "en,pt,pt_BR",
     "remote.containers.defaultExtensions": [
         "alefragnani.bookmarks",
-        "streetsidesoftware.code-spell-checker-portuguese-brazilian",
-        "streetsidesoftware.code-spell-checker",
         "naumovs.color-highlight",
         "donjayamanne.githistory",
         "dbaeumer.vscode-eslint",
