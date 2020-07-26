@@ -251,6 +251,16 @@
   },
   {
     "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "dbaeumer.vscode-eslint",
+      "publisherDisplayName": "dbaeumer"
+    },
+    "name": "vscode-eslint",
+    "publisher": "dbaeumer",
+    "version": "2.1.8"
+  },
+  {
+    "metadata": {
       "id": "829a192d-496c-44ac-87f3-0a84ce36a853",
       "publisherId": "emmanuelbeziat.vscode-great-icons",
       "publisherDisplayName": "emmanuelbeziat"

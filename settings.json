@@ -18,7 +18,6 @@
         "donjayamanne.githistory",
         "dbaeumer.vscode-eslint",
         "ms-vscode.vscode-typescript-tslint-plugin",
-        "esbenp.prettier-vscode",
         "ms-azuretools.vscode-docker",
         "visualstudioexptteam.vscodeintellicode"
     ]
