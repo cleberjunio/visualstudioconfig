@@ -30,5 +30,6 @@
     "docker.containers.description": [
         "ContainerName",
         "Status"
-    ]
+    ],
+    "php.suggest.basic": false
 }
