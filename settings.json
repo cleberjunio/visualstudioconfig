@@ -24,7 +24,8 @@
         "ms-vscode.vscode-typescript-tslint-plugin",
         "ms-azuretools.vscode-docker",
         "mikestead.dotenv",
-        "shan.code-settings-sync"
+        "shan.code-settings-sync",
+        "dbaeumer.vscode-eslint"
     ],
     "docker.containers.sortBy": "CreatedTime",
     "docker.containers.description": [
