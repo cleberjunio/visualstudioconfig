@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+shift+t",
+        "command": "better-phpunit.run"
+    },
+    {
+        "key": "win+k win+r",
+        "command": "-better-phpunit.run"
+    }
+]
