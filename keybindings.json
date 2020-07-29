@@ -2,7 +2,8 @@
 [
     {
         "key": "ctrl+shift+t",
-        "command": "better-phpunit.run"
+        "command": "better-phpunit.run",
+        "when": "editorFocus"
     },
     {
         "key": "win+k win+r",
