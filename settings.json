@@ -25,7 +25,8 @@
         "ms-azuretools.vscode-docker",
         "mikestead.dotenv",
         "shan.code-settings-sync",
-        "dbaeumer.vscode-eslint"
+        "dbaeumer.vscode-eslint",
+        "hazer.reactcodesnippets"
     ],
     "docker.containers.sortBy": "CreatedTime",
     "docker.containers.description": [
