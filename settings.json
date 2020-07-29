@@ -6,7 +6,7 @@
     "sync.forceUpload": true,
     "sync.quietSync": true,
     "sync.gist": "f134417fa4753064820b6ee2af194e55",
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe",
     "workbench.colorTheme": "Darcula",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
