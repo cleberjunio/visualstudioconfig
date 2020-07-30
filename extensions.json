@@ -171,16 +171,6 @@
   },
   {
     "metadata": {
-      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
-      "publisherId": "ms-azuretools.vscode-docker",
-      "publisherDisplayName": "ms-azuretools"
-    },
-    "name": "vscode-docker",
-    "publisher": "ms-azuretools",
-    "version": "1.4.1"
-  },
-  {
-    "metadata": {
       "id": "829a192d-496c-44ac-87f3-0a84ce36a853",
       "publisherId": "emmanuelbeziat.vscode-great-icons",
       "publisherDisplayName": "emmanuelbeziat"

@@ -33,5 +33,6 @@
         "ContainerName",
         "Status"
     ],
-    "php.suggest.basic": false
+    "php.suggest.basic": false,
+    "window.zoomLevel": 1
 }
