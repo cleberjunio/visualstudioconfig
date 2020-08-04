@@ -45,6 +45,7 @@
         "CHOKIDAR",
         "USEPOLLING",
         "entrypoint",
+        "nestjs",
         "rabbitmq"
     ],
     "terminal.integrated.copyOnSelection": true,
