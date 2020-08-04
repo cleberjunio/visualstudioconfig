@@ -46,5 +46,6 @@
         "USEPOLLING",
         "entrypoint",
         "rabbitmq"
-    ]
+    ],
+    "terminal.integrated.copyOnSelection": true
 }
