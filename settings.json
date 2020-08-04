@@ -40,5 +40,10 @@
     },
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "cSpell.userWords": [
+        "CHOKIDAR",
+        "USEPOLLING",
+        "entrypoint"
+    ]
 }
