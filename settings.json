@@ -44,6 +44,7 @@
     "cSpell.userWords": [
         "CHOKIDAR",
         "USEPOLLING",
-        "entrypoint"
+        "entrypoint",
+        "rabbitmq"
     ]
 }
