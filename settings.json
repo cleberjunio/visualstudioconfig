@@ -47,5 +47,8 @@
         "entrypoint",
         "rabbitmq"
     ],
-    "terminal.integrated.copyOnSelection": true
+    "terminal.integrated.copyOnSelection": true,
+    "auto-close-tag.disableOnLanguage": [
+    "[typescript]"
+    ]
 }
