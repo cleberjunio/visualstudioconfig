@@ -51,5 +51,10 @@
     "terminal.integrated.copyOnSelection": true,
     "auto-close-tag.disableOnLanguage": [
     "[typescript]"
-    ]
+    ],
+    "cloudcode.gke": {
+        "projectIds": [
+            "vscode-test-285612"
+        ]
+    }
 }
