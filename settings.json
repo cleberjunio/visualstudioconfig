@@ -46,7 +46,8 @@
         "USEPOLLING",
         "entrypoint",
         "nestjs",
-        "rabbitmq"
+        "rabbitmq",
+        "typeorm"
     ],
     "terminal.integrated.copyOnSelection": true,
     "auto-close-tag.disableOnLanguage": [
