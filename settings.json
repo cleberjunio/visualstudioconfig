@@ -52,6 +52,7 @@
     ],
     "terminal.integrated.copyOnSelection": true,
     "auto-close-tag.disableOnLanguage": [
+    
     "[typescript]"
     ],
     "cloudcode.gke": {
