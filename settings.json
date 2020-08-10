@@ -47,7 +47,8 @@
         "entrypoint",
         "nestjs",
         "rabbitmq",
-        "typeorm"
+        "typeorm",
+        "varchar"
     ],
     "terminal.integrated.copyOnSelection": true,
     "auto-close-tag.disableOnLanguage": [
