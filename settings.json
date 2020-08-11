@@ -45,6 +45,7 @@
         "CHOKIDAR",
         "USEPOLLING",
         "entrypoint",
+        "microservices",
         "nestjs",
         "rabbitmq",
         "typeorm",
