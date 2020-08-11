@@ -21,6 +21,16 @@
   },
   {
     "metadata": {
+      "id": "5e8803a2-3dc8-42b3-9c5f-ea9d37828c03",
+      "publisherId": "googlecloudtools.cloudcode",
+      "publisherDisplayName": "googlecloudtools"
+    },
+    "name": "cloudcode",
+    "publisher": "googlecloudtools",
+    "version": "1.4.1"
+  },
+  {
+    "metadata": {
       "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
       "publisherId": "Shan.code-settings-sync",
       "publisherDisplayName": "Shan"
