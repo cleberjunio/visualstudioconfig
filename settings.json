@@ -48,7 +48,8 @@
         "nestjs",
         "rabbitmq",
         "typeorm",
-        "varchar"
+        "varchar",
+        "websockets"
     ],
     "terminal.integrated.copyOnSelection": true,
     "auto-close-tag.disableOnLanguage": [
