@@ -48,6 +48,7 @@
         "entrypoint",
         "microservices",
         "nestjs",
+        "originalname",
         "rabbitmq",
         "typeorm",
         "varchar",
