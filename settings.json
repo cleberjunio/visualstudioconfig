@@ -46,6 +46,7 @@
         "Keycloak",
         "USEPOLLING",
         "Unprocessable",
+        "dbdata",
         "entrypoint",
         "microservices",
         "nestjs",
