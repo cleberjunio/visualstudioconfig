@@ -49,6 +49,7 @@
         "datasource",
         "dbdata",
         "entrypoint",
+        "hookform",
         "microservices",
         "nestjs",
         "originalname",
